@@ -1,0 +1,16 @@
+
+[ {
+  "Name": "The Role of the Azure Database Administrator",
+  "Language": "English",
+  "Files": [
+    {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/stage/Instructions/Labs/LabIntro.md",
+        "Order": 1
+     },
+    
+    {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DP-300T00-Administering-Relational-Databases-on-Azure/prod/Instructions/Labs/DP-300_01_lab.md",
+        "Order": 2
+     }
+  ]
+} ]
